@@ -4,6 +4,9 @@ https://pruebamodulo7.web.app
 
 proyecto levantado con firebase hosting
 
+
+![Imagen testing](src/assets/TestingPruebaM7.png)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
